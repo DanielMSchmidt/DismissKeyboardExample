@@ -1,0 +1,12 @@
+{
+  "name": "DismissKeyboardExample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.18.0-rc",
+    "react-native-dismiss-keyboard": "0.0.2"
+  }
+}
