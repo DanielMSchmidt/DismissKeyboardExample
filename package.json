@@ -3,10 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "react-native start"
+    "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "react-native": "^0.18.0-rc",
-    "react-native-dismiss-keyboard": "0.0.2"
+    "react": "^0.14.8",
+    "react-native": "^0.25.1",
+    "react-native-dismiss-keyboard": "0.0.3"
   }
 }
