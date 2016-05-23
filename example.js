@@ -1,11 +1,11 @@
-import React, {
-  AppRegistry,
-  Component,
+import React, { Component } from 'react';
+
+import {
   StyleSheet,
   Text,
   TextInput,
   TouchableHighlight,
-  View
+  View,
 } from 'react-native';
 
 import dismissKeyboard from 'react-native-dismiss-keyboard';
